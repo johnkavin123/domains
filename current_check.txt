@@ -179,3 +179,8 @@
 988: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=10/day=20/ccTLD-domain-names-list.az.2025-10-20.csv.gz
 989: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=10/day=27/ccTLD-domain-names-list.az.2025-10-27.csv.gz
 990: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=11/day=03/ccTLD-domain-names-list.az.2025-11-03.csv.gz
+991: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=11/day=10/ccTLD-domain-names-list.az.2025-11-10.csv.gz
+992: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=11/day=17/ccTLD-domain-names-list.az.2025-11-17.csv.gz
+993: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=11/day=24/ccTLD-domain-names-list.az.2025-11-24.csv.gz
+994: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=12/day=01/ccTLD-domain-names-list.az.2025-12-01.csv.gz
+995: https://object.openintel.nl/seeseetld/lists/tld=az/year=2025/month=12/day=08/ccTLD-domain-names-list.az.2025-12-08.csv.gz
