@@ -914,3 +914,8 @@
 1723: https://object.openintel.nl/seeseetld/lists/tld=br/year=2024/month=12/day=16/ccTLD-domain-names-list.br.2024-12-16.csv.gz
 1724: https://object.openintel.nl/seeseetld/lists/tld=br/year=2024/month=12/day=23/ccTLD-domain-names-list.br.2024-12-23.csv.gz
 1725: https://object.openintel.nl/seeseetld/lists/tld=br/year=2024/month=12/day=30/ccTLD-domain-names-list.br.2024-12-30.csv.gz
+1726: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=06/ccTLD-domain-names-list.br.2025-01-06.csv.gz
+1727: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=13/ccTLD-domain-names-list.br.2025-01-13.csv.gz
+1728: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=20/ccTLD-domain-names-list.br.2025-01-20.csv.gz
+1729: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=27/ccTLD-domain-names-list.br.2025-01-27.csv.gz
+1730: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
