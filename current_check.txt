@@ -1424,3 +1424,8 @@
 2233: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=07/day=07/ccTLD-domain-names-list.cd.2025-07-07.csv.gz
 2234: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=07/day=14/ccTLD-domain-names-list.cd.2025-07-14.csv.gz
 2235: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=07/day=21/ccTLD-domain-names-list.cd.2025-07-21.csv.gz
+2236: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=07/day=28/ccTLD-domain-names-list.cd.2025-07-28.csv.gz
+2237: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=08/day=04/ccTLD-domain-names-list.cd.2025-08-04.csv.gz
+2238: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=08/day=11/ccTLD-domain-names-list.cd.2025-08-11.csv.gz
+2239: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=08/day=18/ccTLD-domain-names-list.cd.2025-08-18.csv.gz
+2240: https://object.openintel.nl/seeseetld/lists/tld=cd/year=2025/month=08/day=25/ccTLD-domain-names-list.cd.2025-08-25.csv.gz
