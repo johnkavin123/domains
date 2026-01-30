@@ -922,3 +922,16 @@
 1731: https://object.openintel.nl/seeseetld/lists/tld=br/year=2024/month=12/day=30/ccTLD-domain-names-list.br.2024-12-30.csv.gz
 1732: https://object.openintel.nl/seeseetld/lists/tld=br/year=2024/month=12/day=30/ccTLD-domain-names-list.br.2024-12-30.csv.gz
 1733: https://object.openintel.nl/seeseetld/lists/tld=br/year=2024/month=12/day=30/ccTLD-domain-names-list.br.2024-12-30.csv.gz
+1734: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=06/ccTLD-domain-names-list.br.2025-01-06.csv.gz
+1735: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=13/ccTLD-domain-names-list.br.2025-01-13.csv.gz
+1736: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=20/ccTLD-domain-names-list.br.2025-01-20.csv.gz
+1737: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=01/day=27/ccTLD-domain-names-list.br.2025-01-27.csv.gz
+1738: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1739: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1740: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1741: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1742: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1743: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1744: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1745: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
+1746: https://object.openintel.nl/seeseetld/lists/tld=br/year=2025/month=02/day=03/ccTLD-domain-names-list.br.2025-02-03.csv.gz
