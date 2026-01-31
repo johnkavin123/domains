@@ -1,0 +1,8 @@
+minta.mh
+gov.mh
+rmigov.mh
+ocit.mh
+kalgov.mh
+wahoo.mh
+edu.mh
+nta.mh
