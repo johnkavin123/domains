@@ -5774,3 +5774,8 @@
 9015: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=09/day=15/ccTLD-domain-names-list.mp.2025-09-15.csv.gz
 9016: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=09/day=22/ccTLD-domain-names-list.mp.2025-09-22.csv.gz
 9017: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=09/day=29/ccTLD-domain-names-list.mp.2025-09-29.csv.gz
+9018: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=10/day=06/ccTLD-domain-names-list.mp.2025-10-06.csv.gz
+9019: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=10/day=13/ccTLD-domain-names-list.mp.2025-10-13.csv.gz
+9020: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=10/day=20/ccTLD-domain-names-list.mp.2025-10-20.csv.gz
+9021: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=10/day=27/ccTLD-domain-names-list.mp.2025-10-27.csv.gz
+9022: https://object.openintel.nl/seeseetld/lists/tld=mp/year=2025/month=11/day=03/ccTLD-domain-names-list.mp.2025-11-03.csv.gz
