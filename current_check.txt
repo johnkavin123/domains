@@ -13921,3 +13921,8 @@
 17162: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=08/day=25/ccTLD-domain-names-list.xn--mgbbh1a.2025-08-25.csv.gz
 17163: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=09/day=01/ccTLD-domain-names-list.xn--mgbbh1a.2025-09-01.csv.gz
 17164: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=09/day=08/ccTLD-domain-names-list.xn--mgbbh1a.2025-09-08.csv.gz
+17165: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=09/day=15/ccTLD-domain-names-list.xn--mgbbh1a.2025-09-15.csv.gz
+17166: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=09/day=22/ccTLD-domain-names-list.xn--mgbbh1a.2025-09-22.csv.gz
+17167: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=09/day=29/ccTLD-domain-names-list.xn--mgbbh1a.2025-09-29.csv.gz
+17168: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=10/day=06/ccTLD-domain-names-list.xn--mgbbh1a.2025-10-06.csv.gz
+17169: https://object.openintel.nl/seeseetld/lists/tld=xn--mgbbh1a/year=2025/month=10/day=13/ccTLD-domain-names-list.xn--mgbbh1a.2025-10-13.csv.gz
