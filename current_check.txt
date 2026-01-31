@@ -10327,3 +10327,8 @@
 13568: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=05/day=05/ccTLD-domain-names-list.tn.2025-05-05.csv.gz
 13569: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=05/day=06/ccTLD-domain-names-list.tn.2025-05-06.csv.gz
 13570: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=05/day=12/ccTLD-domain-names-list.tn.2025-05-12.csv.gz
+13571: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=05/day=19/ccTLD-domain-names-list.tn.2025-05-19.csv.gz
+13572: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=05/day=26/ccTLD-domain-names-list.tn.2025-05-26.csv.gz
+13573: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=06/day=02/ccTLD-domain-names-list.tn.2025-06-02.csv.gz
+13574: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=06/day=09/ccTLD-domain-names-list.tn.2025-06-09.csv.gz
+13575: https://object.openintel.nl/seeseetld/lists/tld=tn/year=2025/month=06/day=16/ccTLD-domain-names-list.tn.2025-06-16.csv.gz
