@@ -12711,3 +12711,8 @@
 15952: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=06/day=02/ccTLD-domain-names-list.xn--fiqs8s.2025-06-02.csv.gz
 15953: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=06/day=09/ccTLD-domain-names-list.xn--fiqs8s.2025-06-09.csv.gz
 15954: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=06/day=16/ccTLD-domain-names-list.xn--fiqs8s.2025-06-16.csv.gz
+15955: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=06/day=23/ccTLD-domain-names-list.xn--fiqs8s.2025-06-23.csv.gz
+15956: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=06/day=30/ccTLD-domain-names-list.xn--fiqs8s.2025-06-30.csv.gz
+15957: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=07/day=07/ccTLD-domain-names-list.xn--fiqs8s.2025-07-07.csv.gz
+15958: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=07/day=14/ccTLD-domain-names-list.xn--fiqs8s.2025-07-14.csv.gz
+15959: https://object.openintel.nl/seeseetld/lists/tld=xn--fiqs8s/year=2025/month=07/day=21/ccTLD-domain-names-list.xn--fiqs8s.2025-07-21.csv.gz
