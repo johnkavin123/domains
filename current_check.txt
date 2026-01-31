@@ -8396,3 +8396,12 @@
 11637: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=07/day=21/ccTLD-domain-names-list.ru.2025-07-21.csv.gz
 11638: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=07/day=21/ccTLD-domain-names-list.ru.2025-07-21.csv.gz
 11639: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=07/day=21/ccTLD-domain-names-list.ru.2025-07-21.csv.gz
+11640: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=07/day=28/ccTLD-domain-names-list.ru.2025-07-28.csv.gz
+11641: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=04/ccTLD-domain-names-list.ru.2025-08-04.csv.gz
+11642: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=11/ccTLD-domain-names-list.ru.2025-08-11.csv.gz
+11643: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=18/ccTLD-domain-names-list.ru.2025-08-18.csv.gz
+11644: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
+11645: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
+11646: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
+11647: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
+11648: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
