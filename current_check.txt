@@ -1325,3 +1325,12 @@
 4566: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=03/day=10/ccTLD-domain-names-list.fr.2025-03-10.csv.gz
 4567: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=03/day=10/ccTLD-domain-names-list.fr.2025-03-10.csv.gz
 4568: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=03/day=10/ccTLD-domain-names-list.fr.2025-03-10.csv.gz
+4569: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=03/day=17/ccTLD-domain-names-list.fr.2025-03-17.csv.gz
+4570: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=03/day=24/ccTLD-domain-names-list.fr.2025-03-24.csv.gz
+4571: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=03/day=31/ccTLD-domain-names-list.fr.2025-03-31.csv.gz
+4572: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=04/day=07/ccTLD-domain-names-list.fr.2025-04-07.csv.gz
+4573: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=04/day=14/ccTLD-domain-names-list.fr.2025-04-14.csv.gz
+4574: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=04/day=14/ccTLD-domain-names-list.fr.2025-04-14.csv.gz
+4575: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=04/day=14/ccTLD-domain-names-list.fr.2025-04-14.csv.gz
+4576: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=04/day=14/ccTLD-domain-names-list.fr.2025-04-14.csv.gz
+4577: https://object.openintel.nl/seeseetld/lists/tld=fr/year=2025/month=04/day=14/ccTLD-domain-names-list.fr.2025-04-14.csv.gz
