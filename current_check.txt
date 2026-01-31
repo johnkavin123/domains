@@ -3524,3 +3524,17 @@
 6765: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=11/day=03/ccTLD-domain-names-list.it.2025-11-03.csv.gz
 6766: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=11/day=03/ccTLD-domain-names-list.it.2025-11-03.csv.gz
 6767: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=11/day=03/ccTLD-domain-names-list.it.2025-11-03.csv.gz
+6768: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=11/day=10/ccTLD-domain-names-list.it.2025-11-10.csv.gz
+6769: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=11/day=17/ccTLD-domain-names-list.it.2025-11-17.csv.gz
+6770: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=11/day=24/ccTLD-domain-names-list.it.2025-11-24.csv.gz
+6771: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=01/ccTLD-domain-names-list.it.2025-12-01.csv.gz
+6772: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6773: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6774: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6775: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6776: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6777: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6778: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6779: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6780: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6781: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
