@@ -8405,3 +8405,11 @@
 11646: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
 11647: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
 11648: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=08/day=25/ccTLD-domain-names-list.ru.2025-08-25.csv.gz
+11649: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=01/ccTLD-domain-names-list.ru.2025-09-01.csv.gz
+11650: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=08/ccTLD-domain-names-list.ru.2025-09-08.csv.gz  # download_failed_HTTPSConnectionPool(host='object.openintel.nl', port=443): Max retries exceeded with url: /seeseetld/lists/tld=ru/year=2025/month=09/day=08/ccTLD-domain-names-list.ru.2025-09-08.csv.gz (Caused by ResponseError('too many 503 error responses'))
+11651: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=15/ccTLD-domain-names-list.ru.2025-09-15.csv.gz
+11652: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=22/ccTLD-domain-names-list.ru.2025-09-22.csv.gz
+11653: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=29/ccTLD-domain-names-list.ru.2025-09-29.csv.gz  # download_failed_HTTPSConnectionPool(host='object.openintel.nl', port=443): Max retries exceeded with url: /seeseetld/lists/tld=ru/year=2025/month=09/day=29/ccTLD-domain-names-list.ru.2025-09-29.csv.gz (Caused by ResponseError('too many 503 error responses'))
+11654: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=29/ccTLD-domain-names-list.ru.2025-09-29.csv.gz
+11655: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=29/ccTLD-domain-names-list.ru.2025-09-29.csv.gz
+11656: https://object.openintel.nl/seeseetld/lists/tld=ru/year=2025/month=09/day=29/ccTLD-domain-names-list.ru.2025-09-29.csv.gz
