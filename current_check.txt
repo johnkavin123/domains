@@ -7156,3 +7156,8 @@
 10397: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=07/day=07/ccTLD-domain-names-list.nz.2025-07-07.csv.gz
 10398: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=07/day=14/ccTLD-domain-names-list.nz.2025-07-14.csv.gz
 10399: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=07/day=21/ccTLD-domain-names-list.nz.2025-07-21.csv.gz
+10400: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=07/day=28/ccTLD-domain-names-list.nz.2025-07-28.csv.gz
+10401: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=08/day=04/ccTLD-domain-names-list.nz.2025-08-04.csv.gz
+10402: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=08/day=11/ccTLD-domain-names-list.nz.2025-08-11.csv.gz
+10403: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=08/day=18/ccTLD-domain-names-list.nz.2025-08-18.csv.gz
+10404: https://object.openintel.nl/seeseetld/lists/tld=nz/year=2025/month=08/day=25/ccTLD-domain-names-list.nz.2025-08-25.csv.gz
