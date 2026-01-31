@@ -1,0 +1,9 @@
+ocit.mh
+kalgov.mh
+minta.mh
+gov.mh
+rmigov.mh
+wahoo.mh
+edu.mh
+nta.mh
+visitmarshallislands.mh
