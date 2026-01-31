@@ -3729,3 +3729,8 @@
 6970: https://object.openintel.nl/seeseetld/lists/tld=jo/year=2025/month=12/day=29/ccTLD-domain-names-list.jo.2025-12-29.csv.gz
 6971: https://object.openintel.nl/seeseetld/lists/tld=jo/year=2026/month=01/day=05/ccTLD-domain-names-list.jo.2026-01-05.csv.gz
 6972: https://object.openintel.nl/seeseetld/lists/tld=jo/year=2026/month=01/day=12/ccTLD-domain-names-list.jo.2026-01-12.csv.gz
+6973: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2024/month=12/day=02/ccTLD-domain-names-list.jp.2024-12-02.csv.gz
+6974: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2024/month=12/day=09/ccTLD-domain-names-list.jp.2024-12-09.csv.gz
+6975: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2024/month=12/day=16/ccTLD-domain-names-list.jp.2024-12-16.csv.gz
+6976: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2024/month=12/day=23/ccTLD-domain-names-list.jp.2024-12-23.csv.gz
+6977: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2024/month=12/day=30/ccTLD-domain-names-list.jp.2024-12-30.csv.gz
