@@ -3538,3 +3538,14 @@
 6779: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
 6780: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
 6781: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=08/ccTLD-domain-names-list.it.2025-12-08.csv.gz
+6782: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=15/ccTLD-domain-names-list.it.2025-12-15.csv.gz
+6783: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=22/ccTLD-domain-names-list.it.2025-12-22.csv.gz
+6784: https://object.openintel.nl/seeseetld/lists/tld=it/year=2025/month=12/day=29/ccTLD-domain-names-list.it.2025-12-29.csv.gz  # download_failed_HTTPSConnectionPool(host='object.openintel.nl', port=443): Max retries exceeded with url: /seeseetld/lists/tld=it/year=2025/month=12/day=29/ccTLD-domain-names-list.it.2025-12-29.csv.gz (Caused by ResponseError('too many 503 error responses'))
+6785: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=05/ccTLD-domain-names-list.it.2026-01-05.csv.gz
+6786: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz  # download_failed_HTTPSConnectionPool(host='object.openintel.nl', port=443): Max retries exceeded with url: /seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz (Caused by ResponseError('too many 503 error responses'))
+6787: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz
+6788: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz
+6789: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz
+6790: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz
+6791: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz
+6792: https://object.openintel.nl/seeseetld/lists/tld=it/year=2026/month=01/day=12/ccTLD-domain-names-list.it.2026-01-12.csv.gz
