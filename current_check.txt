@@ -9917,3 +9917,8 @@
 13158: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=07/day=07/ccTLD-domain-names-list.tf.2025-07-07.csv.gz
 13159: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=07/day=14/ccTLD-domain-names-list.tf.2025-07-14.csv.gz
 13160: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=07/day=21/ccTLD-domain-names-list.tf.2025-07-21.csv.gz
+13161: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=07/day=28/ccTLD-domain-names-list.tf.2025-07-28.csv.gz
+13162: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=08/day=04/ccTLD-domain-names-list.tf.2025-08-04.csv.gz
+13163: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=08/day=11/ccTLD-domain-names-list.tf.2025-08-11.csv.gz
+13164: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=08/day=18/ccTLD-domain-names-list.tf.2025-08-18.csv.gz
+13165: https://object.openintel.nl/seeseetld/lists/tld=tf/year=2025/month=08/day=25/ccTLD-domain-names-list.tf.2025-08-25.csv.gz
