@@ -2497,3 +2497,8 @@
 5738: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=01/day=20/ccTLD-domain-names-list.hk.2025-01-20.csv.gz
 5739: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=01/day=27/ccTLD-domain-names-list.hk.2025-01-27.csv.gz
 5740: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=02/day=03/ccTLD-domain-names-list.hk.2025-02-03.csv.gz
+5741: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=02/day=10/ccTLD-domain-names-list.hk.2025-02-10.csv.gz
+5742: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=02/day=17/ccTLD-domain-names-list.hk.2025-02-17.csv.gz
+5743: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=02/day=24/ccTLD-domain-names-list.hk.2025-02-24.csv.gz
+5744: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=03/day=03/ccTLD-domain-names-list.hk.2025-03-03.csv.gz
+5745: https://object.openintel.nl/seeseetld/lists/tld=hk/year=2025/month=03/day=10/ccTLD-domain-names-list.hk.2025-03-10.csv.gz
