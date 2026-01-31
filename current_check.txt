@@ -3759,3 +3759,8 @@
 7000: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=06/day=02/ccTLD-domain-names-list.jp.2025-06-02.csv.gz
 7001: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=06/day=09/ccTLD-domain-names-list.jp.2025-06-09.csv.gz
 7002: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=06/day=16/ccTLD-domain-names-list.jp.2025-06-16.csv.gz
+7003: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=06/day=23/ccTLD-domain-names-list.jp.2025-06-23.csv.gz
+7004: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=06/day=30/ccTLD-domain-names-list.jp.2025-06-30.csv.gz
+7005: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=07/day=07/ccTLD-domain-names-list.jp.2025-07-07.csv.gz
+7006: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=07/day=14/ccTLD-domain-names-list.jp.2025-07-14.csv.gz
+7007: https://object.openintel.nl/seeseetld/lists/tld=jp/year=2025/month=07/day=21/ccTLD-domain-names-list.jp.2025-07-21.csv.gz
