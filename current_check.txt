@@ -4394,3 +4394,8 @@
 7635: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=09/day=15/ccTLD-domain-names-list.kz.2025-09-15.csv.gz
 7636: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=09/day=22/ccTLD-domain-names-list.kz.2025-09-22.csv.gz
 7637: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=09/day=29/ccTLD-domain-names-list.kz.2025-09-29.csv.gz
+7638: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=10/day=06/ccTLD-domain-names-list.kz.2025-10-06.csv.gz
+7639: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=10/day=13/ccTLD-domain-names-list.kz.2025-10-13.csv.gz
+7640: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=10/day=20/ccTLD-domain-names-list.kz.2025-10-20.csv.gz
+7641: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=10/day=27/ccTLD-domain-names-list.kz.2025-10-27.csv.gz
+7642: https://object.openintel.nl/seeseetld/lists/tld=kz/year=2025/month=11/day=03/ccTLD-domain-names-list.kz.2025-11-03.csv.gz
